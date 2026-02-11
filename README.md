@@ -19,7 +19,7 @@
 * **Competitive Programming:** Regularly solving algorithmic challenges to sharpen problem-solving skills.
 
 ### 📊 GitHub Stats
-![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Romain7&show_icons=true&theme=transparent&hide_border=true)
+![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Romain7&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
