@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Romain Auguste 👋
 
-<!--
-**7Romain7/7Romain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student @ École Polytechnique (X25) | Ex Louis-le-Grand MP***
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+* **École Polytechnique (X25):** Core curriculum with a focus on Mathematics, Physics and Computer Science. Admitted via competitive exam as an external candidate.
+* **École des Ponts ParisTech (2024-2025):** One year of intensive engineering with specialized coursework in **Machine Learning** and **Advanced Probability**.
+* **Lycée Louis-le-Grand:** MPSI/MP* - Advanced foundation in Pure Mathematics and Theoretical Physics.
+
+### 🚀 Technical Focus
+* **Artificial Intelligence:** Exploring LLM architectures and API integrations.
+* **Quantitative Finance:** Developing strong foundations in Stochastic Processes and Python-based modeling.
+* **Competitive Programming:** Regularly solving algorithmic challenges to sharpen problem-solving skills.
+
+### 📊 GitHub Stats
+![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Romain7&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+### 📄 Connect with me
+* [**LinkedIn Profile**](https://www.linkedin.com/in/romain-auguste)
