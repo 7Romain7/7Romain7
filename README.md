@@ -9,7 +9,7 @@
 ---
 
 ### 🎓 Education
-* **École Polytechnique (X25):** Core curriculum with a focus on Mathematics, Physics and Computer Science. Admitted via competitive exam as an external candidate.
+* **École Polytechnique (X25):** Core curriculum with a focus on Mathematics, Physics and Computer Science. Admitted via competitive exam.
 * **École des Ponts ParisTech (2024-2025):** One year of intensive engineering with specialized coursework in **Machine Learning** and **Advanced Probability**.
 * **Lycée Louis-le-Grand:** MPSI/MP* - Advanced foundation in Pure Mathematics and Theoretical Physics.
 
