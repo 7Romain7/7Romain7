@@ -1,24 +1,20 @@
-# Hi, I'm Romain Auguste 👋
+# Romain Auguste
 
-**Student @ École Polytechnique (X25) | Ex Louis-le-Grand MP***
+Engineering student at École Polytechnique (X25). I work on machine learning for vision and world models.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/romain-auguste)
 
----
+### Projects
 
-### 🎓 Education
-* **École Polytechnique (X25):** Core curriculum with a focus on Mathematics, Physics and Computer Science. Admitted via competitive exam.
-* **École des Ponts ParisTech (2024-2025):** One year of intensive engineering with specialized coursework in **Machine Learning** and **Advanced Probability**.
-* **Lycée Louis-le-Grand:** MPSI/MP* - Advanced foundation in Pure Mathematics and Theoretical Physics.
+- **[interdot-unet](https://github.com/7Romain7/interdot-unet)**: U-Net detection of interdot transitions in simulated quantum dot measurements. Trained on an infinite generator, with a leave-one-family-out study of robustness to lab artefacts. Object F1 0.98 on the test set. Hackathon project, PyTorch.
+- **[H-JEPA](https://github.com/7Romain7/H-JEPA)**: research project (PSC) on hierarchical joint-embedding predictive architectures. Work in progress.
 
-### 🚀 Technical Focus
-* **Artificial Intelligence:** Exploring LLM architectures and API integrations.
-* **Quantitative Finance:** Developing strong foundations in Stochastic Processes and Python-based modeling.
-* **Competitive Programming:** Regularly solving algorithmic challenges to sharpen problem-solving skills.
+### Education
 
----
+- **École Polytechnique** (2025 to present): Ingénieur Polytechnicien program in mathematics, physics and computer science.
+- **École des Ponts ParisTech** (2024 to 2025): one year of engineering school with coursework in machine learning and probability.
+- **Lycée Louis-le-Grand**: MPSI and MP\* preparatory classes.
 
-### 📄 Connect with me
-* [**LinkedIn Profile**](https://www.linkedin.com/in/romain-auguste)
+### Tools
+
+Python, PyTorch, NumPy, Git, LaTeX
